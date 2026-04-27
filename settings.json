@@ -6,10 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "johnz433-k30b.aternos.me
-",
+    "ip": "johnz433-k30b.aternos.me",
     "port": 60305,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
