@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "afk-bot",
+    "username": "JOHN",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "johnz433.aternos.me
+    "ip": "johnz433-k30b.aternos.me
 ",
-    "port": 60660,
-    "version": "",
+    "port": 60305,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
